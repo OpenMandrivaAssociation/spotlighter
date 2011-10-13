@@ -1,5 +1,5 @@
 Name:		spotlighter
-Summary:	Spotlighter is a tool that show a movable and resizable spotlight on the desktop screen.
+Summary:	Spotlighter is a tool that show a movable and resizable spotlight on the desktop screen
 Version:	0.2
 Release:	%mkrel 1
 Source0:	http://ardesia.googlecode.com/files/%{name}-%{version}.tar.bz2
@@ -14,9 +14,9 @@ Requires:	freetype
 
 %description
 Spotlighter is a tool that show a movable and resizable spotlight
-on the desktop screen.
-You can use this to hide and show objects on the desktop.
-This program has been implemented for educational purposes.
+on the desktop screen
+You can use this to hide and show objects on the desktop
+This program has been implemented for educational purposes
 
 
 %prep

@@ -8,8 +8,9 @@ Group:		Education
 License:	GPL
 BuildRequires:	gcc make automake libtool
 BuildRequires:	freetype intltool
+BuildRequires:	libgtk+-devel
 
-Requires:	freetype
+Requires:	freetype gtk+2.0
 
 
 %description

@@ -1,7 +1,7 @@
 Name:		spotlighter
 Summary:	A tool that show a movable and resizable spotlight on the desktop screen
 Version:	0.2
-Release:	2
+Release:	3
 Source0:	http://ardesia.googlecode.com/files/%{name}-%{version}.tar.bz2
 URL:		http://code.google.com/p/ardesia
 Group:		Education

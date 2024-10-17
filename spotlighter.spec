@@ -3,7 +3,7 @@ Summary:	A tool that show a movable and resizable spotlight on the desktop scree
 Version:	0.2
 Release:	3
 Source0:	http://ardesia.googlecode.com/files/%{name}-%{version}.tar.bz2
-URL:		http://code.google.com/p/ardesia
+URL:		https://code.google.com/p/ardesia
 Group:		Education
 License:	GPL
 BuildRequires:	automake

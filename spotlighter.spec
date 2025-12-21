@@ -6,6 +6,9 @@ Source0:	http://ardesia.googlecode.com/files/%{name}-%{version}.tar.bz2
 URL:		https://code.google.com/p/ardesia
 Group:		Education
 License:	GPL
+BuildRequires:	autoconf
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
 BuildRequires:	automake
 BuildRequires:	libtool
 BuildRequires:	intltool
